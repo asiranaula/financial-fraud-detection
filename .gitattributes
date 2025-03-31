@@ -1,3 +1,4 @@
 *.ipynb filter=lfs diff=lfs merge=lfs -text
 *.md filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
+data/historic_fraud_activity.csv filter=lfs diff=lfs merge=lfs -text
